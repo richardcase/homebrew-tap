@@ -1,6 +1,6 @@
 cask "clowder" do
-  version "0.8.1"
-  sha256 "be0fbbd87d3a2352591d5c6765f095e73e363f6a7660c90d2baf59155da56936"
+  version "0.9.0"
+  sha256 "5642d04511194f532b35d63257073d6c0e746a36e8e60a2b2dbd919353a145b5"
 
   url "https://github.com/richardcase/clowder/releases/download/v#{version}/Clowder-#{version}-macos.dmg",
       verified: "github.com/richardcase/clowder/"
